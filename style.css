@@ -1,14 +1,5 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
-nav{    
-  width: 150px;
-  float: left;
-  display: inline;
-  margin: 0;
-  padding:300;
-  margin-right: 10px;
-  opacity:0.9;
-}
 
 body
 {
@@ -41,12 +32,6 @@ li {
   font-style: Bold;
 }
 
-#brand {
-  color:White;
-  font-size: 60px;
-  margin-left: 50px;
-  float:left;
-}
 
 .navbar {
   margin-top: 100px;
@@ -57,10 +42,7 @@ h4 {
   color:White;
 }
 
-#logo {
-  margin-left:50px;
-  margin-top:10px;
-}
+
 
 .thumbnail {
   margin-top:60px;
@@ -68,4 +50,17 @@ h4 {
   padding-bottom:60px;
   margin-bottom:120px;
   margin-left:80px;
+}
+
+body {
+  padding-top: 70px;
+  position: relative;
+}
+
+.well {
+  padding-top: 40px;
+}
+
+img#UofC {
+  width: 70%;
 }
