@@ -1,0 +1,71 @@
+@import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
+
+nav{    
+  width: 150px;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding:300;
+  margin-right: 10px;
+  opacity:0.9;
+}
+
+body
+{
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+Footer {
+font-family: Oswald ;
+font-style: Bold;
+display:block;
+position: fixed;
+bottom: 0;
+width: 100%;
+height: 100px;
+background-color: Black;
+opacity:0.9;
+}
+
+p {
+  color:White;
+  font-size: 30px;
+  text-align:center
+}
+
+li {
+  color:Black;
+  font-family: Oswald ;
+  font-style: Bold;
+}
+
+#brand {
+  color:White;
+  font-size: 60px;
+  margin-left: 50px;
+  float:left;
+}
+
+.navbar {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+h4 {
+  color:White;
+}
+
+#logo {
+  margin-left:50px;
+  margin-top:10px;
+}
+
+.thumbnail {
+  margin-top:60px;
+  alignment:center;
+  padding-bottom:60px;
+  margin-bottom:120px;
+  margin-left:80px;
+}
